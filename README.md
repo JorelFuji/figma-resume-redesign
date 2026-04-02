@@ -33,7 +33,8 @@ Add exported assets from Figma into the `assets/` folder using the filenames bel
 
 ## Live Prototype
 
-[Figma Project Link](PASTE_YOUR_LINK_HERE)
+- [Primary Figma Site](https://widen-thread-16813513.figma.site)
+- [Secondary Figma Site](https://sugar-cerise-50819152.figma.site)
 
 ## Design Notes
 
@@ -58,9 +59,9 @@ figma-resume-redesign/
 - Add `assets/resume-preview.png`
 - Add `assets/figma-cover.png`
 - Add `assets/resume-export.pdf`
-- Replace the placeholder Figma link
+- Confirm the live Figma links are final
 - Enable GitHub Pages if you want the portfolio page live
 
 ## Optional Next Step
 
-This repo now includes a simple portfolio homepage for GitHub Pages. Once your assets and Figma link are added, it can work as a lightweight public case study.
+This repo now includes a simple portfolio homepage for GitHub Pages. Once your assets are added, it can work as a lightweight public case study linked to your live Figma pages.
