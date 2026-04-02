@@ -1,46 +1,60 @@
-# Design choices
+# Design Notes
 
-## Concept
+Use this file to document the thinking behind the redesign so the project reads like a case study, not just a finished mockup.
 
-Document the overall direction of the redesign. For example:
+## Project Direction
 
-- Clean executive presentation
-- Strong hierarchy for fast scanning
-- Modern but conservative enough for professional use
+- Overall visual tone:
+- Intended audience:
+- What made the old version feel weak:
+- What the redesign is trying to communicate:
 
-## Layout decisions
+## Layout Decisions
 
-- Grid or column structure
-- How sections are organized
-- Spacing and alignment rules
+- Grid or column structure:
+- How sections are grouped:
+- Margin and spacing rules:
+- How dates, titles, and supporting details are aligned:
 
 ## Typography
 
 - Primary typeface:
 - Secondary typeface:
-- Reason for font selection:
-- Heading vs body contrast:
+- Heading scale:
+- Body text size and line height:
+- Why this type pairing works for the project:
 
-## Visual hierarchy
+## Visual Hierarchy
 
-- How key information is emphasized
-- How the layout guides the reader
-- What you intentionally de-emphasized
+- What the reader should notice first:
+- How the design guides the eye:
+- Which details are intentionally quieter:
+- How section breaks are created:
 
-## Color
+## Color and Styling
 
 - Primary colors:
 - Accent colors:
-- Why they fit the project:
+- Background treatment:
+- Why the palette fits a professional resume:
 
-## Iterations
+## Reusable Components in Figma
+
+- Section header component:
+- Job or experience entry pattern:
+- Skills or metadata treatment:
+- Variants created for future edits:
+
+## Iteration Notes
 
 - Version 1:
 - Version 2:
-- Final direction:
+- Final version:
+- Biggest improvement from the original:
 
-## Export
+## Export Setup
 
-- Export size / frame:
-- PDF settings:
-- Print vs screen adjustments:
+- Frame size:
+- PNG export settings:
+- PDF export settings:
+- Any adjustments for screen versus print:
