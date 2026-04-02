@@ -2,10 +2,6 @@
 
 A personal design project focused on creating a modern, professional resume layout using Figma.
 
-## What this project is
-
-Documentation and exports for a resume redesign: previews, PDF output, and notes on layout and typography decisions. GitHub acts as a lightweight showcase alongside the live Figma file.
-
 ## Goals
 
 - Improve readability and visual hierarchy
@@ -22,26 +18,24 @@ Documentation and exports for a resume redesign: previews, PDF output, and notes
 
 ![Resume preview](assets/resume-preview.png)
 
-![Figma cover / frame overview](assets/figma-cover.png)
-
 ## Live prototype
 
 [Figma project link](PASTE_YOUR_LINK_HERE)
 
-## Repository layout
+## Design notes
 
-| Path | Purpose |
-|------|---------|
-| `assets/resume-preview.png` | Main resume screenshot for README and sharing |
-| `assets/figma-cover.png` | Cover or key frame from Figma |
-| `assets/resume-export.pdf` | Exported PDF from Figma |
-| `notes/design-choices.md` | Rationale for type, spacing, grid, and component decisions |
+See [DESIGN_NOTES.md](DESIGN_NOTES.md) for choices around layout, type, color, and exports.
 
-## Roadmap
+## Example layout
 
-- **Now:** Add real images and PDF under `assets/` after you export from Figma.
-- **Later:** Optional simple portfolio page (e.g. GitHub Pages) that links here and to Figma.
+```text
+figma-resume-redesign/
+├── README.md
+├── DESIGN_NOTES.md
+├── assets/
+│   ├── resume-preview.png
+│   ├── figma-cover.png
+│   └── resume-export.pdf
+```
 
-## Design Notes
-
-See [notes/design-choices.md](notes/design-choices.md) for the project rationale and iteration notes.
+Add the PNGs and PDF from Figma under `assets/`. Optional later: a simple portfolio site (e.g. GitHub Pages).
